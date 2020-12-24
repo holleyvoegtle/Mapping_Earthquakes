@@ -2,4 +2,4 @@
 
 ## Deliverable 1
 
-!(ChallengeScreenshot.png)
+![Earthquake Map](ChallengeScreenshot.png)
